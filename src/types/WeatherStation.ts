@@ -1,0 +1,1 @@
+export type WeatherStation = "D1521" | "LBSF";
